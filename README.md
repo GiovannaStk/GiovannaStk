@@ -1,5 +1,5 @@
 <h1>Oiii eu sou a Giovanna!! 🖐</h1>
-<p>Desenvolvedora Front-End 👩‍💻</p>
+<p>Sou Dev Jr Front-End 👩‍💻</p>
   
   
   
